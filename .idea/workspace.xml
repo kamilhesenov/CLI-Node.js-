@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16da2461-e9c3-4665-b9fa-ddd632304af0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/services/storage.service.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weather.js" beforeDir="false" afterPath="$PROJECT_DIR$/weather.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
       <updated>1644340217675</updated>
       <workItem from="1644340223865" duration="5343000" />
       <workItem from="1644346094158" duration="5087000" />
+      <workItem from="1644383473095" duration="2537000" />
     </task>
     <servers />
   </component>
@@ -72,5 +73,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
